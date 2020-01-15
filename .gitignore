@@ -1,3 +1,8 @@
+# Ignore common SSH key names
+id_rsa*
+*.pem
+.ssh/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
